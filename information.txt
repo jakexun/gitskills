@@ -5,3 +5,5 @@ today I learned create and merge branch.
 git checkout -b branchname
 
 Creating a new branch is quick and simple
+quick AND simple
+
